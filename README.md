@@ -1,7 +1,7 @@
 # Budget Tracker Starter Code
 
 ## Description
-Converted a ready made project to be able to be accessed offline. 
+Converted a ready made budget tracker to be able to be accessed offline. 
 
 ## Built With 
 * CSS
@@ -16,6 +16,8 @@ Converted a ready made project to be able to be accessed offline.
 [Deployed Application](https://ancient-bayou-10993.herokuapp.com)
 
 ## Images
+
+![image](https://user-images.githubusercontent.com/72768805/115126704-6a264f00-9f8e-11eb-8f56-38777b2dbb2c.png)
 
 
 
